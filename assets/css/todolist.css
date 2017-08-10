@@ -1,6 +1,11 @@
 #container {
 
-	background: #f2f2f2;
+	border: 2px solid #f2f2f2;
 	width: 360px;
 	margin: 0 auto;
+}
+
+.completed {
+	color: gray;
+	text-decoration: line-through;
 }
